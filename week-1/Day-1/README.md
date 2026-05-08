@@ -110,6 +110,15 @@ Completed:
 - Playground Management
 
 ---
+# 📸 Screenshots
+
+## Account Created
+![Account](screenshot(account-created).png)
+
+## Opportunity Created
+![Opportunity](screenshot(opportunity-created).png)
+
+---
 
 # 📚 Key Learnings
 
