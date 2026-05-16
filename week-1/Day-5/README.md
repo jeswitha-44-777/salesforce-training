@@ -280,20 +280,6 @@ Apex provides:
 
 ---
 
-# Screenshots
-
-Add screenshots inside:
-
-```text
-/day5-apex-introduction/screenshots/
-```
-
-Include:
-- AccountTriggerHandler
-- AccountTrigger
-- AccountTriggerTest
-
----
 
 # Folder Structure
 
